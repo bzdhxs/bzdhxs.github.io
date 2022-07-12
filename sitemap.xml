@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://bzdhxs.github.io/2022/07/12/Codeforces-Round-804-Div2-vp/</loc>
+    <loc>https://bzdhxs.github.io/2022/07/13/Nearest-Opposite-Parity/</loc>
+    
+    <lastmod>2022-07-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://bzdhxs.github.io/2022/07/13/%E6%8A%BD%E5%8D%A1/</loc>
     
     <lastmod>2022-07-12</lastmod>
     
@@ -13,7 +22,16 @@
   <url>
     <loc>https://bzdhxs.github.io/2022/06/30/Codeforces-Round-803-Div-2-vp/</loc>
     
-    <lastmod>2022-06-30</lastmod>
+    <lastmod>2022-07-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://bzdhxs.github.io/2022/07/12/Codeforces-Round-804-Div2-vp/</loc>
+    
+    <lastmod>2022-07-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -57,6 +75,13 @@
   
   <url>
     <loc>https://bzdhxs.github.io/tags/codeforces/</loc>
+    <lastmod>2022-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://bzdhxs.github.io/tags/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98/</loc>
     <lastmod>2022-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
