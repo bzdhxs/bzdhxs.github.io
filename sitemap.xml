@@ -4,7 +4,16 @@
   <url>
     <loc>https://bzdhxs.github.io/2022/07/13/Nearest-Opposite-Parity/</loc>
     
-    <lastmod>2022-07-12</lastmod>
+    <lastmod>2022-07-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://bzdhxs.github.io/2022/07/13/%E5%AD%90%E4%B8%B2/</loc>
+    
+    <lastmod>2022-07-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -67,22 +76,22 @@
 
   <url>
     <loc>https://bzdhxs.github.io/</loc>
-    <lastmod>2022-07-12</lastmod>
+    <lastmod>2022-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://bzdhxs.github.io/tags/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98/</loc>
-    <lastmod>2022-07-12</lastmod>
+    <loc>https://bzdhxs.github.io/tags/codeforces/</loc>
+    <lastmod>2022-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://bzdhxs.github.io/tags/codeforces/</loc>
-    <lastmod>2022-07-12</lastmod>
+    <loc>https://bzdhxs.github.io/tags/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98/</loc>
+    <lastmod>2022-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -91,7 +100,7 @@
   
   <url>
     <loc>https://bzdhxs.github.io/categories/%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2022-07-12</lastmod>
+    <lastmod>2022-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
